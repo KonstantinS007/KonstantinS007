@@ -14,8 +14,8 @@
 ![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=#008000) 
 ![Diagrams](https://img.shields.io/badge/Diagrams-000000?style=for-the-badge&logo=Diagrams&logoColor=#008000) 
 ![Pycharm](https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=Pycharm&logoColor=#008000)
-![GitHub Streak](https://streak-stats.demolab.com?user=KonstantinS007&theme=tokyonight&locale=ru&date_format=j%20M%5B%20Y%5D)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KonstantinS007&theme=dark&locale=ru)](https://git.io/streak-stats)
 <img src="https://media.giphy.com/media/1iUZct1cqCG16XsI/giphy.gif" width="250" height="195"/>
 
 
