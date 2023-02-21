@@ -14,10 +14,10 @@
 ![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=#008000) 
 ![Diagrams](https://img.shields.io/badge/Diagrams-000000?style=for-the-badge&logo=Diagrams&logoColor=#008000) 
 ![Pycharm](https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=Pycharm&logoColor=#008000)
+![GitHub Streak](https://streak-stats.demolab.com?user=KonstantinS007&theme=tokyonight&locale=ru&date_format=j%20M%5B%20Y%5D)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KonstantinS007)]
 <img src="https://media.giphy.com/media/1iUZct1cqCG16XsI/giphy.gif" width="250" height="195"/>
-![trophy](https://github-profile-trophy.vercel.app/?username=KonstantinS007)
+
 
 <!--
 **KonstantinS007/KonstantinS007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
