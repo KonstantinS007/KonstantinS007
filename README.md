@@ -18,6 +18,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KonstantinS007&theme=dark&locale=ru)](https://git.io/streak-stats)
 <img src="https://media.giphy.com/media/1iUZct1cqCG16XsI/giphy.gif" width="250" height="195"/>
 
+![](https://komarev.com/ghpvc/?username=KonstantinS007)
+
 
 <!--
 **KonstantinS007/KonstantinS007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
