@@ -8,7 +8,7 @@
 [![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=SQLite&logoColor=#008000)](http://htmlbook.ru/css) 
 [![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=Postman&logoColor=#008000)](http://htmlbook.ru/css) 
 [![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=Jira&logoColor=#008000)](http://htmlbook.ru/css) 
-[![Sublime](https://img.shields.io/badge/-Sublime-000000?style=for-the-badge&logo=Sublime+text&logoColor=#008000)](http://htmlbook.ru/css) 
+<!-- [![Sublime](https://img.shields.io/badge/-Sublime-000000?style=for-the-badge&logo=Sublime+text&logoColor=#008000)](http://htmlbook.ru/css)  -->
 [![Devtools_Chrome](https://img.shields.io/badge/-Devtools_Chrome-000000?style=for-the-badge&logo=GoogleChrome&logoColor=#008000)](http://htmlbook.ru/css) 
 [![Miro](https://img.shields.io/badge/-Miro-000000?style=for-the-badge&logo=Miro&logoColor=#008000)](http://htmlbook.ru/css) 
 [![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=#008000)](http://htmlbook.ru/css) 
