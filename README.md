@@ -16,7 +16,7 @@
 [![Pycharm](https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=Pycharm&logoColor=#008000)](https://www.jetbrains.com/pycharm/) 
 [![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=#008000)](https://www.python.org/)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KonstantinS007)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/KonstantinS007=DenverCoder1)](https://git.io/streak-stats)
 <img src="https://media.giphy.com/media/1iUZct1cqCG16XsI/giphy.gif" width="250" height="195"/>
 
 ![](https://komarev.com/ghpvc/?username=KonstantinS007)
